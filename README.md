@@ -2,10 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=1&pause=100000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=600&height=55&lines=Ali+Nejmeldeen" alt="Ali Nejmeldeen"/>
 
-<p>
-<a href="https://www.linkedin.com/in/alinejmeldeen/"><img src="./linkedin.png" height="32" alt="LinkedIn"/></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/alinejmeldeen/"><img src="./linkedin.png" height="32" align="middle" alt="LinkedIn"/></a>
 &nbsp;
-<a href="mailto:anejmeldeen@gmail.com"><img src="./email.png" height="32" alt="Email"/></a>
+<a href="mailto:anejmeldeen@gmail.com"><img src="./email.png" height="40" align="middle" alt="Email"/></a>
 </p>
 
 <p align="center">
